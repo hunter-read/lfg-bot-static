@@ -28,6 +28,7 @@ const App = {
       {text: 'D&D 2nd Edition', value: 'DND2e'},
       {text: 'D&D 3rd Edition', value: '3e'},
       {text: 'D&D 4th Edition', value: '4e'},
+      {text: 'One D&D', value: '1DND'},
       {text: 'Earthdawn', value: 'Earthdawn'},
       {text: 'Fate Core', value: 'Fate'},
       {text: 'Feast of Legends', value: 'Feast'},
@@ -135,6 +136,9 @@ const App = {
       {text: 'Astral Tabletop', value: 'astral'},
       {text: 'TablePlop', value: 'tableplop'},
       {text: 'TaleSpire', value: 'talespire'},
+      {text: 'One More Multiverse', value: 'omm'},
+      {text: 'Owlbear Rodeo', value: 'owlbear'},
+      {text: 'Above VTT', value: 'abovevtt'},
     ],
     selectedIdentity: [],
     identities: [
