@@ -133,7 +133,6 @@ const App = {
       {text: 'Fantasy Grounds', value: 'fg'},
       {text: 'Tabletop Simulator', value: 'tts'},
       {text: 'Foundry VTT', value: 'foundry'},
-      {text: 'Astral Tabletop', value: 'astral'},
       {text: 'TablePlop', value: 'tableplop'},
       {text: 'TaleSpire', value: 'talespire'},
       {text: 'One More Multiverse', value: 'omm'},
