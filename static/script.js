@@ -146,7 +146,7 @@ const App = {
     ],
     selectedIdentity: [],
     identities: [
-      {text: 'LGBTQ+', value: 'lgbtq'},
+      {text: 'LGBTQ+', value: 'lgbtq'},~
       {text: 'Feminine or Woman', value: 'fem'},
       {text: 'People of Color', value: 'poc'},
       {text: 'Accessible', value: 'accessible'},
